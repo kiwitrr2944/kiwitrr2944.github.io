@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Poczet Królów Polskich
+title: ""
 email: likkea111@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Poczet Królów Polskich by Wiktor Rutecki
@@ -30,7 +30,6 @@ github_username:  kiwitrr2944
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
