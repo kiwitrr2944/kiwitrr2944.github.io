@@ -1,0 +1,9 @@
+---
+Layout: page
+title: Władysław II Jagiełło
+---
+### Władysław II Jagiełło
+Władysław II Jagiełło ( lit. Jogaila, ur. ok. 1362 lub ok. 1352, zm. 1 czerwca 1434 w Gródku) - wielki książę litewski i książę witebski w latach 1377-1381 i 1382-1401, iure uxoris król Polski, najwyższy książę litewski 1401-1434.
+[https://pl.wikipedia.org/wiki/Władysław_II_Jagiełło](https://pl.wikipedia.org/wiki/Władysław_II_Jagiełło)]
+
+![xd](https://s.ciekawostkihistoryczne.pl/uploads/2017/05/Jagiello-Godlewski.jpg)

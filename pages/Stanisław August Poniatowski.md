@@ -1,0 +1,9 @@
+---
+Layout: page
+title: Stanisław August Poniatowski
+---
+### Stanisław August Poniatowski
+Stanisław II August, urodzony jako Stanisław Antoni Poniatowski herbu Ciołek (ur. 17 stycznia 1732 w Wołczynie , zm. 1 lutego ? / 12 lutego 1798 w Petersburgu ) - król Polski w latach 1764-1795, ostatni władca Rzeczypospolitej Obojga Narodów .
+[https://pl.wikipedia.org/wiki/Stanisław_August_Poniatowski](https://pl.wikipedia.org/wiki/Stanisław_August_Poniatowski)]
+
+![xd](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stanisław_II_August_Poniatowski_in_coronation_clothes.PNG/440px-Stanisław_II_August_Poniatowski_in_coronation_clothes.PNG)

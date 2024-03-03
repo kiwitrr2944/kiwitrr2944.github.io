@@ -1,0 +1,9 @@
+---
+Layout: page
+title: Ludwik Węgierski
+---
+### Ludwik Węgierski
+Ludwik Węgierski, na Węgrzech znany jako Ludwik I Wielki ( węg. I. Nagy Lajos; ur. 5 marca 1326 w Wyszehradzie, zm. 10 września 1382 w Trnawie) - król Węgier w latach 1342-1382, król Polski w latach 1370-1382. Życiorys. Pochodzenie. Ludwik pochodził z rodu Andegawenów (gałąź Kapetyngów) - dynastii rządzącej Węgrami od 1308 do 1382.
+[https://pl.wikipedia.org/wiki/Ludwik_Węgierski](https://pl.wikipedia.org/wiki/Ludwik_Węgierski)]
+
+![xd](https://s.ciekawostkihistoryczne.pl/uploads/2017/11/Ludwik-Wegierski.jpg)

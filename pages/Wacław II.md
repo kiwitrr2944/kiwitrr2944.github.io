@@ -1,0 +1,9 @@
+---
+Layout: page
+title: Wacław II
+---
+### Wacław II
+Wacław II Czeski zmarł 21 czerwca 1305 na gruźlicę po długiej chorobie. Śmierć króla w młodym wieku (miał 33 lata), w połączeniu z tragiczną śmiercią syna w niecały rok później, wzbudziła wśród współczesnych podejrzenie jej nienaturalności. Brak jednak na to dowodów. Został pochowany w Zbrasławiu, dzielnicy Pragi.
+[https://pl.wikipedia.org/wiki/Wacław_II](https://pl.wikipedia.org/wiki/Wacław_II)]
+
+![xd](https://s.twojahistoria.pl/uploads/2018/01/Wacław-II.jpg)

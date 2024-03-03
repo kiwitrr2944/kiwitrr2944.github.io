@@ -1,0 +1,9 @@
+---
+Layout: page
+title: Jan I Olbracht
+---
+### Jan I Olbracht
+Jan I Olbracht zmarł 17 czerwca 1501 w Toruniu, jego zwłoki złożono uroczyście w katedrze wawelskiej, a serce wmurowano w jedną z kolumn bazyliki św. Jana w Toruniu. Nie zostawił po sobie żadnego potomka. Po śmierci Jana Olbrachta tron po nim przejął jego młodszy brat, Aleksander (panował 1501-1506).
+[https://pl.wikipedia.org/wiki/Jan_I_Olbracht](https://pl.wikipedia.org/wiki/Jan_I_Olbracht)]
+
+![xd](https://s3.viva.pl/newys/jan-i-olbracht-krol-polski-1459-1501-poczet-krolow-polskich-mal-marcello-bacciarelli-zbiory-zamku-krolewskiego-w-warszawie-630478-GALLERY_BIG.jpg)

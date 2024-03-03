@@ -1,0 +1,9 @@
+---
+Layout: page
+title: Jadwiga Andegaweńska
+---
+### Jadwiga Andegaweńska
+Jadwiga Andegaweńska, również królowa Jadwiga (ur. między 3 października 1373 a 18 lutego 1374 w Budzie, zm. 17 lipca 1399 w Krakowie ) - królowa Polski [b] z dynastii Andegawenów , córka Ludwika Węgierskiego i Elżbiety Bośniaczki , w 1384 koronowana na króla Polski [7] , pierwsza żona króla Władysława Jagiełły , apostołka ...
+[https://pl.wikipedia.org/wiki/Jadwiga_Andegaweńska](https://pl.wikipedia.org/wiki/Jadwiga_Andegaweńska)]
+
+![xd](https://img.wprost.pl/img/jadwiga-andegawenska-na-obrazie-aleksandra-augustynowicza/c5/8b/e9cc9d290146de13ac1767d486b5.jpeg)
