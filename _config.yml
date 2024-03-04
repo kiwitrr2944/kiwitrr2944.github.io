@@ -28,8 +28,6 @@ twitter_username:
 github_username:  kiwitrr2944
 
 # Build settings
-theme: minima
-plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
